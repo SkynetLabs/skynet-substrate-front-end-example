@@ -1,5 +1,5 @@
 # Skynet Substrate Front End Example
-This example demonstrates how to use data uploaded from an offchain worker. The [example offchain worker](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/tree/skynet-substrate/frame/examples/offchain-worker) averages the block height using [Skynet Substrate](https://github.com/SkynetLabs/skynet-substrate). This repo displays the result by fetching the data from skynet. [Deployed](https://0005ql5jir3ehboc8g9blblgi6nts4dt6l0tpra23tbrsikt40a9vqg.siasky.net/) using [Skynet Deploy Action](https://github.com/SkynetLabs/deploy-to-skynet-action)  
+This example demonstrates how to use data uploaded from an offchain worker. The [example offchain worker](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/tree/skynet-substrate/frame/examples/offchain-worker) averages the block height using [Skynet Substrate](https://github.com/SkynetLabs/skynet-substrate). This repo displays the result by fetching the data from skynet. [Deployed](https://000a09kgtkertvla0vdksg42rihmgg1armrfa245krprc67nrap5pm0.siasky.net/) using [Skynet Deploy Action](https://github.com/SkynetLabs/deploy-to-skynet-action)  
 ## Project setup
 ```
 npm install
