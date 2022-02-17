@@ -28,7 +28,7 @@
     </b-card>
     <br>
     <a href="https://github.com/SkynetLabs/skynet-substrate">Skynet Substrate Source</a> | 
-    <a href="https://github.com/m-cat/substrate/tree/skynet-substrate/bin/node-template">Skynet Substrate Demo</a>
+    <a href="https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/">Skynet Substrate Offchain Worker Node</a>
   </div>
 </template>
 <script>
